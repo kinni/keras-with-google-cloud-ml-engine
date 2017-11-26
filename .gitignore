@@ -1,0 +1,4 @@
+.DS_Store
+
+sentiment_keras_local/
+*.pyc
